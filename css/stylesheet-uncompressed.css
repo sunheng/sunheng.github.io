@@ -1,0 +1,182 @@
+.header {
+	/*border-bottom: 1px solid #e6e6e6;*/
+	/*padding-bottom: 10px;*/
+	margin-bottom: 15px;
+}
+
+.nav-menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-top: 30px;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.nav-menu li {
+	display: inline;
+	margin-right: 15px;
+}
+
+.nav-menu li a {
+	color: black;
+	letter-spacing: 2px;
+}
+.nav-menu li a:hover {
+	text-decoration: none;
+	color: #ff554f;
+}
+
+.nav-icon {
+	text-align: center;
+	margin-top: 30px;
+}
+
+.about-section {
+	background-color: black;
+	padding-top: 35px;
+	padding-bottom: 35px;
+}
+
+.border {
+	border: 1px solid red;
+}
+
+.image-tile {
+	/*width:100%;*/
+    height: 230px;
+    overflow: hidden;
+}
+
+.images{
+	overflow: hidden;
+	margin-bottom: 30px;
+}
+
+.profile-pic {
+	width: 300px;
+}
+
+.white {
+	color: white;
+}
+
+.about-me-text {
+	font-size: 18px;
+	font-weight: 100;
+	letter-spacing: 1px;
+}
+
+.hi-text {
+	font-size: 50px;
+	font-weight: 500;
+}
+
+.accent {
+	font-weight: 400;
+}
+
+.button-default-outline {
+	background-color: transparent;
+    transition: all .5s;
+    border: 1px solid #ff554f;;
+    color: #ff554f;
+    font-weight: 200;
+}
+
+.button-default-outline:link {
+	color: #ff554f;
+	text-decoration: none;
+}
+
+.button-default-outline:active {
+	color: #ff554f;
+	text-decoration: none;
+}
+
+.button-default-outline:visited {
+	color: #ff554f;
+	transition: all .5s;
+}
+
+.button-default-outline:hover {
+	background-color: #ff554f;
+	color: white;
+	transition: all .5s;
+}
+
+.copyright-text {
+	font-weight: 200;
+	letter-spacing: 1px;
+}
+
+.footer-menu {
+	list-style-type: none;
+	color: black;
+}
+
+.footer-menu li {
+	display: inline;
+}
+
+.footer-menu li a {
+	color: black;
+	margin-right: 10px;
+	letter-spacing: 1px;
+}
+
+.footer-menu li a:hover {
+	text-decoration: none;
+	color: #ff554f;
+}
+
+.footer {
+	padding-bottom: 15px;
+}
+
+.about-btns {
+	margin: 1px 5px;
+}
+
+.icons {
+	color: black;
+}
+
+.icons:hover {
+	text-decoration: none;
+	color: #ff554f;
+}
+
+.work-link {
+	color: white;
+	text-decoration: none;
+}
+
+.work-link:link {
+	color: white;
+	text-decoration: none;
+}
+
+.work-link:active {
+	color: white;
+	text-decoration: none;
+}
+
+.work-link:visited {
+	color: white;
+	text-decoration: none;
+}
+
+.work-link:hover {
+	text-decoration: none;
+	color: #ff554f;
+}
+
+.site-info {
+	margin-bottom: 15px;
+	font-weight: 200;
+}
+
+.project-name {
+	font-weight: 300;
+}
